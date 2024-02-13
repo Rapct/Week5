@@ -1,0 +1,12 @@
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\bin\Debug\net8.0\PowerCalculator.deps.json
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\bin\Debug\net8.0\PowerCalculator.dll
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\bin\Debug\net8.0\PowerCalculator.pdb
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.AssemblyInfoInputs.cache
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.AssemblyInfo.cs
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.sourcelink.json
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.dll
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\refint\PowerCalculator.dll
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\PowerCalculator.pdb
+C:\Users\Mengtian Lin\VSC\Week5\PowerCalculator\obj\Debug\net8.0\ref\PowerCalculator.dll
